@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ngọc! 👋
 
-<!--
-**ngocduongyuuki/ngocduongyuuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Code by day, write stories by night."
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Role:** IT Student.
+- 🛠️ **Main Stack:** C# | Java | JavaScript | Python | SQL
+- 💻 **Currently:** Learning something new and breaking something old.
+- ✍️ **Side Quest:** Writing bách hợp & creating fictional worlds.
+- 🎧 **On Repeat:** Music, random ideas, and probably the same song 50 times.
+- 🐛 **Debugging Level:** If it works, don't touch it.
+- 🌙 **Current Status:** Still figuring things out. One commit at a time.
+
+## Interests
+
+- 💻 Programming
+- 📱 Android Development
+- 🌐 Web Development
+- ✍️ Creative Writing
+- 🎵 Music
