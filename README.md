@@ -19,3 +19,7 @@
 - 🌐 Web Development
 - ✍️ Creative Writing
 - 🎵 Music
+
+-Connect: 
+Email: Ngocnhu123dmx@gmail.com
+Facebook: https://www.facebook.com/NgocDuong0801
