@@ -11,7 +11,7 @@
 | **🎓 Role** | IT Student & Developer |
 | **🛠️ Tech Stack** | `C#` · `Java` · `JavaScript` · `Python` · `SQL` |
 | **⚡ Current Focus** | Building things, breaking things, and learning along the way |
-| **✍️ Side Quest** | crafting fictional worlds |
+| **✍️ Side Quest** | Crafting fictional worlds |
 | **🎧 On Repeat** | Lofi beats, random ideas, and the exact same song on loop |
 | **🐛 Debugging** | *"If it works, don't touch it."* |
 | **🌙 Status** | One commit at a time |
